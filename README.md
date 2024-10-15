@@ -47,6 +47,6 @@ For any inquiries or assistance, feel free to contact the course instructor:
 
 This repository is maintained by:  
 **Sohaib Khan**  
-**GitHub:** [okzeesh](https://github.com/sohaib-khan0)
+**GitHub:** [Sohaib-khan0](https://github.com/sohaib-khan0)
 
 ---
