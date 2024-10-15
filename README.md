@@ -46,7 +46,7 @@ For any inquiries or assistance, feel free to contact the course instructor:
 ## 🙋‍♂️ **Maintainer**
 
 This repository is maintained by:  
-**Muhammad Zeeshan Khan**  
-**GitHub:** [okzeesh](https://github.com/okzeesh)
+**Sohaib Khan**  
+**GitHub:** [okzeesh](https://github.com/sohaib-khan0)
 
 ---
